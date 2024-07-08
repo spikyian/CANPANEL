@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production\CANPANEL-VLCB.X.production.hex">
+    <memory name="program">
+      <units>bytes</units>
+      <length>124928</length>
+      <used>37824</used>
+      <free>87104</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>12800</length>
+      <used>1263</used>
+      <free>11537</free>
+    </memory>
+  </executable>
+</project>
